@@ -1,0 +1,11 @@
+C:\Users\thuonh\source\repos\WindowsFormsApp1\ComboBox1\bin\Debug\ComboBox1.exe.config
+C:\Users\thuonh\source\repos\WindowsFormsApp1\ComboBox1\bin\Debug\ComboBox1.exe
+C:\Users\thuonh\source\repos\WindowsFormsApp1\ComboBox1\bin\Debug\ComboBox1.pdb
+C:\Users\thuonh\source\repos\WindowsFormsApp1\ComboBox1\obj\Debug\ComboBox1.csproj.AssemblyReference.cache
+C:\Users\thuonh\source\repos\WindowsFormsApp1\ComboBox1\obj\Debug\ComboBox1.csproj.SuggestedBindingRedirects.cache
+C:\Users\thuonh\source\repos\WindowsFormsApp1\ComboBox1\obj\Debug\ComboBox1.Form1.resources
+C:\Users\thuonh\source\repos\WindowsFormsApp1\ComboBox1\obj\Debug\ComboBox1.Properties.Resources.resources
+C:\Users\thuonh\source\repos\WindowsFormsApp1\ComboBox1\obj\Debug\ComboBox1.csproj.GenerateResource.cache
+C:\Users\thuonh\source\repos\WindowsFormsApp1\ComboBox1\obj\Debug\ComboBox1.csproj.CoreCompileInputs.cache
+C:\Users\thuonh\source\repos\WindowsFormsApp1\ComboBox1\obj\Debug\ComboBox1.exe
+C:\Users\thuonh\source\repos\WindowsFormsApp1\ComboBox1\obj\Debug\ComboBox1.pdb

@@ -1,0 +1,11 @@
+C:\Users\thuonh\source\repos\WindowsFormsApp1\CheckedListBox2\bin\Debug\CheckedListBox2.exe.config
+C:\Users\thuonh\source\repos\WindowsFormsApp1\CheckedListBox2\bin\Debug\CheckedListBox2.exe
+C:\Users\thuonh\source\repos\WindowsFormsApp1\CheckedListBox2\bin\Debug\CheckedListBox2.pdb
+C:\Users\thuonh\source\repos\WindowsFormsApp1\CheckedListBox2\obj\Debug\CheckedListBox2.csproj.AssemblyReference.cache
+C:\Users\thuonh\source\repos\WindowsFormsApp1\CheckedListBox2\obj\Debug\CheckedListBox2.csproj.SuggestedBindingRedirects.cache
+C:\Users\thuonh\source\repos\WindowsFormsApp1\CheckedListBox2\obj\Debug\CheckedListBox2.Form1.resources
+C:\Users\thuonh\source\repos\WindowsFormsApp1\CheckedListBox2\obj\Debug\CheckedListBox2.Properties.Resources.resources
+C:\Users\thuonh\source\repos\WindowsFormsApp1\CheckedListBox2\obj\Debug\CheckedListBox2.csproj.GenerateResource.cache
+C:\Users\thuonh\source\repos\WindowsFormsApp1\CheckedListBox2\obj\Debug\CheckedListBox2.csproj.CoreCompileInputs.cache
+C:\Users\thuonh\source\repos\WindowsFormsApp1\CheckedListBox2\obj\Debug\CheckedListBox2.exe
+C:\Users\thuonh\source\repos\WindowsFormsApp1\CheckedListBox2\obj\Debug\CheckedListBox2.pdb

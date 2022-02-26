@@ -1,0 +1,11 @@
+C:\Users\thuonh\source\repos\WindowsFormsApp1\ListBox\bin\Debug\ListBox.exe.config
+C:\Users\thuonh\source\repos\WindowsFormsApp1\ListBox\bin\Debug\ListBox.exe
+C:\Users\thuonh\source\repos\WindowsFormsApp1\ListBox\bin\Debug\ListBox.pdb
+C:\Users\thuonh\source\repos\WindowsFormsApp1\ListBox\obj\Debug\ListBox.csproj.AssemblyReference.cache
+C:\Users\thuonh\source\repos\WindowsFormsApp1\ListBox\obj\Debug\ListBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\thuonh\source\repos\WindowsFormsApp1\ListBox\obj\Debug\ListBox.Form1.resources
+C:\Users\thuonh\source\repos\WindowsFormsApp1\ListBox\obj\Debug\ListBox.Properties.Resources.resources
+C:\Users\thuonh\source\repos\WindowsFormsApp1\ListBox\obj\Debug\ListBox.csproj.GenerateResource.cache
+C:\Users\thuonh\source\repos\WindowsFormsApp1\ListBox\obj\Debug\ListBox.csproj.CoreCompileInputs.cache
+C:\Users\thuonh\source\repos\WindowsFormsApp1\ListBox\obj\Debug\ListBox.exe
+C:\Users\thuonh\source\repos\WindowsFormsApp1\ListBox\obj\Debug\ListBox.pdb

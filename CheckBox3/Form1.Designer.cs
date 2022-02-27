@@ -79,9 +79,9 @@
             this.checkBox1.AutoSize = true;
             this.checkBox1.Location = new System.Drawing.Point(61, 165);
             this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(95, 20);
+            this.checkBox1.Size = new System.Drawing.Size(77, 20);
             this.checkBox1.TabIndex = 3;
-            this.checkBox1.Text = "checkBox1";
+            this.checkBox1.Text = "Cạo Vôi";
             this.checkBox1.UseVisualStyleBackColor = true;
             // 
             // checkBox2
@@ -89,19 +89,20 @@
             this.checkBox2.AutoSize = true;
             this.checkBox2.Location = new System.Drawing.Point(61, 223);
             this.checkBox2.Name = "checkBox2";
-            this.checkBox2.Size = new System.Drawing.Size(95, 20);
+            this.checkBox2.Size = new System.Drawing.Size(86, 20);
             this.checkBox2.TabIndex = 4;
-            this.checkBox2.Text = "checkBox2";
+            this.checkBox2.Text = "Tẩy trắng";
             this.checkBox2.UseVisualStyleBackColor = true;
+            this.checkBox2.CheckedChanged += new System.EventHandler(this.checkBox2_CheckedChanged);
             // 
             // checkBox3
             // 
             this.checkBox3.AutoSize = true;
             this.checkBox3.Location = new System.Drawing.Point(61, 279);
             this.checkBox3.Name = "checkBox3";
-            this.checkBox3.Size = new System.Drawing.Size(95, 20);
+            this.checkBox3.Size = new System.Drawing.Size(117, 20);
             this.checkBox3.TabIndex = 5;
-            this.checkBox3.Text = "checkBox3";
+            this.checkBox3.Text = "Chụp hình răng";
             this.checkBox3.UseVisualStyleBackColor = true;
             // 
             // numericUpDown1

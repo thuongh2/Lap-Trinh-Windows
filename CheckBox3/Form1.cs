@@ -69,5 +69,10 @@ namespace CheckBox3
         {
             Application.Exit();
         }
+
+        private void checkBox2_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

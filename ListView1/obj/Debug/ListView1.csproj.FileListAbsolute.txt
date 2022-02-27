@@ -1,0 +1,11 @@
+E:\Windows\WindowsFormsApp1\ListView1\bin\Debug\ListView1.exe.config
+E:\Windows\WindowsFormsApp1\ListView1\bin\Debug\ListView1.exe
+E:\Windows\WindowsFormsApp1\ListView1\bin\Debug\ListView1.pdb
+E:\Windows\WindowsFormsApp1\ListView1\obj\Debug\ListView1.csproj.AssemblyReference.cache
+E:\Windows\WindowsFormsApp1\ListView1\obj\Debug\ListView1.csproj.SuggestedBindingRedirects.cache
+E:\Windows\WindowsFormsApp1\ListView1\obj\Debug\ListView1.Form1.resources
+E:\Windows\WindowsFormsApp1\ListView1\obj\Debug\ListView1.Properties.Resources.resources
+E:\Windows\WindowsFormsApp1\ListView1\obj\Debug\ListView1.csproj.GenerateResource.cache
+E:\Windows\WindowsFormsApp1\ListView1\obj\Debug\ListView1.csproj.CoreCompileInputs.cache
+E:\Windows\WindowsFormsApp1\ListView1\obj\Debug\ListView1.exe
+E:\Windows\WindowsFormsApp1\ListView1\obj\Debug\ListView1.pdb
